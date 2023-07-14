@@ -356,3 +356,5 @@ html.sap-phone .sapMDialog > footer .sapMFooter-CTX {
 }
 
 div.sapMText {color: red;}
+
+.sapMLabel{font-weight: bold;}
