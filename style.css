@@ -354,3 +354,5 @@ div.Body {
 html.sap-phone .sapMDialog > footer .sapMFooter-CTX {
   justify-content: center;
 }
+
+div.sapMText {color: red;}
