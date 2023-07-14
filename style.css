@@ -2,9 +2,6 @@
 #body {
   font-family: "Noto Sans KR", sans-serif !important;
 }
-div.Body {
-  border: 1px solid red;
-}
 #body #Content {
   font-family: "Noto Sans KR", sans-serif !important;
 }
@@ -355,6 +352,6 @@ html.sap-phone .sapMDialog > footer .sapMFooter-CTX {
   justify-content: center;
 }
 
-div.sapMText {color: red;}
-
 .sapMLabel{font-weight: bold;}
+
+.sapMLabel{font-weight: bold !important;}
